@@ -46,6 +46,8 @@ and
 
 ### Get Gringotts
 
+Supported Minecraft versions are listed in [`minecraft-versions.json`](minecraft-versions.json) (currently 1.21.11). Every CI build checks the jar's Bukkit API use against each listed version with the [release-gates API-compatibility check](https://github.com/Dans-Plugins/release-gates#api-compatibility-check).
+
 - [from Spigot](https://www.spigotmc.org/resources/gringotts.42071/)
 - [from Hangar](https://hangar.papermc.io/nikosgram/Gringotts)
 
